@@ -9,8 +9,8 @@
 <br>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynguyenminh&label=Profile%20views&color=0e75b6&style=flat" alt="lynguyenminh" /> </p>
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamind65&label=Profile%20views&color=0e75b6&style=flat" alt="gamind65" /> </p>
+
 
 
 
