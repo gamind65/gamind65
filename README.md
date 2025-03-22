@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 0_0, I'm Nguyễn Mai Chí Tấn also known as GaMinD</h1>
 <h3 align="center"></h3>
-I am an undergraduate at University of Information Technology (UIT) - Computer Science major.\
-Specialized in Computer Vision and Natural Language Processing.\
-I love create programs that helps automate tedious task which require much human resources by incorporating Artificial Inteligent to the program.\
+I am an undergraduate at University of Information Technology (UIT) - Computer Science major. <br />
+Specialized in Computer Vision and Natural Language Processing. <br />
+I love create programs that helps automate tedious task which require much human resources by incorporating Artificial Inteligent to the program. <br />
 
 
 <br>
