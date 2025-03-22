@@ -68,5 +68,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamind65&show_icons=true&locale=en&layout=compact" alt="gamind65" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamind65&show_icons=true&locale=en" alt="gamind65" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamind65&" alt="gamind65" /></p>
