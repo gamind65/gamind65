@@ -49,7 +49,7 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> &emsp; 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="opencv" width="40" height="40"/> </a> &emsp; 
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="opencv" width="40" height="40"/> </a> &emsp; 
-  <a href="https://pola.rs" target="_blank" rel="noreferrer"> <img src="https://pola.rs/share.jpg" alt="opencv" width="40" height="40"/> </a> &emsp; 
+  <a href="https://pola.rs" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/3914/PNG/512/polars_logo_icon_248809.png" alt="opencv" width="40" height="40"/> </a> &emsp; 
 </p>
 
 
