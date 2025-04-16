@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 😳, I'm Nguyễn Mai Chí Tấn a.k.a GaMinD</h1>
+<h1 align="center">Hi 😳, I'm Nguyễn Mai Chí Tấn</h1>
 <h3 align="center"></h3>
 🎓 I am an undergraduate at University of Information Technology (UIT) - Computer Science major. <br />
 🤖 Specialized in Computer Vision and Natural Language Processing. <br />
